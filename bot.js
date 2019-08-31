@@ -35,7 +35,7 @@ var ti={}
 
 client.on('ready', function(){
     var ms = 60000 ;
-    var setGame = ['Flower Shop','Type FlowerShop'];
+    var setGame = ['Flower Shop',' Flower Shop'];
     var i = -1;
     var j = 0;
     setInterval(function (){
